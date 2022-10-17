@@ -1,6 +1,6 @@
 # calculator
 
-https://karna03.github.io/vue-calculator/
+https://vaitiulevich.github.io/vue-calculator/
 
 
 ## Project setup
